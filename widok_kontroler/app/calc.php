@@ -70,4 +70,5 @@ if (empty ( $messages )) { // gdy brak błędów
 // 4. Wywołanie widoku z przekazaniem zmiennych
 // - zainicjowane zmienne ($messages,$x,$y,$operation,$result)
 //   będą dostępne w dołączonym skrypcie
+//   TEST
 include 'calc_view.php';
